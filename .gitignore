@@ -1,0 +1,29 @@
+/bin# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# LibMan
+wwwroot/lib/
+
+# Node
+node_modules/
+
+# Secrets
+secrets.json
+.env
+
+# OS generated files
+*.DS_Store
+Thumbs.db
